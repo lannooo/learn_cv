@@ -1,4 +1,4 @@
-# some cv homework
+# some cv homeworks
 include:
 - a drawing demo using opencv library(Python)
 - a eigenface demo with train/test/reconstruct
