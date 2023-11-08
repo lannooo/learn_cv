@@ -1,5 +1,5 @@
-# some cv homeworks
-include:
-- a drawing demo using opencv library(Python)
-- a eigenface demo with train/test/reconstruct
-- a simple cnn model on CIFAR-10 task
+# Some CV homeworks
+Includes:
+- A drawing demo using the OpenCV library (Python)
+- An eigenface task demo including train, test, and reconstruct stages.
+- A simple CNN model trained on the CIFAR-10.
